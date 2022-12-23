@@ -1,5 +1,8 @@
 # Coursera_Boulder_IntroDeepL_w3
-Week 3: CNN Cancer Detection Kaggle Mini-Project
+
+[Course link](https://www.coursera.org/learn/introduction-to-deep-learning-boulder)
+
+## Week 3: CNN Cancer Detection Kaggle Mini-Project
 
 For this week's mini-project, you will participate in this Kaggle competition: [Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview)
 
