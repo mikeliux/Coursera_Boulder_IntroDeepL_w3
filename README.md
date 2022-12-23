@@ -1,7 +1,7 @@
 # Coursera_Boulder_IntroDeepL_w3
 Week 3: CNN Cancer Detection Kaggle Mini-Project
 
-For this week's mini-project, you will participate in this Kaggle competition: Histopathologic Cancer Detection
+For this week's mini-project, you will participate in this Kaggle competition: [Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview)
 
 This Kaggle competition is a binary image classification problem where you will identify metastatic cancer in small image patches taken from larger digital pathology scans.
 
